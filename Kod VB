@@ -1,0 +1,5 @@
+Sub komunikat()
+Dim Imie as String
+Imie=InputBox("Podaj Imie")
+MsgBox Imie
+End Sub
